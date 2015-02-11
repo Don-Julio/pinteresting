@@ -1,0 +1,7 @@
+$body-b: #f1c40f;
+$navbar-inverse-bg: #3498db;
+$navbar-inverse-link-color: white;
+$brand-primary: #2980b9;
+$jumbotron-bg: #f39c12;
+$font-family-sans-serif: Helvetica;
+@import "bootstrap";
